@@ -116,10 +116,11 @@ for i, city in enumerate(CITIES):
     <Id>jk-site-{ad_id}</Id>
     <DateBegin>{date_begin}</DateBegin>
     <DateEnd>{date_end}</DateEnd>
-    <Category>Предложение услуг</Category>
-    <AdType>Услуги</AdType>
+    <Category>Услуги</Category>
+    <AdType>Предложение услуг</AdType>
+    <ServiceType>Деловые услуги</ServiceType>
     <Address>Россия, {esc(city)}</Address>
-    <Name>Сайт под ключ за 1 день</Name>
+    <Title>Сайт под ключ за 1 день</Title>
     <Description><![CDATA[{intro1}
 
 {BODY_AD1}]]></Description>
@@ -137,10 +138,11 @@ for i, city in enumerate(CITIES):
     <Id>jk-crm-{ad_id}</Id>
     <DateBegin>{date_begin}</DateBegin>
     <DateEnd>{date_end}</DateEnd>
-    <Category>Предложение услуг</Category>
-    <AdType>Услуги</AdType>
+    <Category>Услуги</Category>
+    <AdType>Предложение услуг</AdType>
+    <ServiceType>Деловые услуги</ServiceType>
     <Address>Россия, {esc(city)}</Address>
-    <Name>Сайт + CRM под ключ за 2 дня</Name>
+    <Title>Сайт + CRM под ключ за 2 дня</Title>
     <Description><![CDATA[{intro2}
 
 {BODY_AD2}]]></Description>
