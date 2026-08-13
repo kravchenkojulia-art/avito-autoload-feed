@@ -2,8 +2,8 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>jk-site-1</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Москва</Address>
@@ -40,8 +40,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-2</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Москва</Address>
@@ -76,8 +76,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-3</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Санкт-Петербург</Address>
@@ -114,8 +114,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-4</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Санкт-Петербург</Address>
@@ -150,8 +150,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-5</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Новосибирск</Address>
@@ -188,8 +188,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-6</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Новосибирск</Address>
@@ -224,8 +224,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-7</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Екатеринбург</Address>
@@ -262,8 +262,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-8</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Екатеринбург</Address>
@@ -298,8 +298,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-9</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Казань</Address>
@@ -336,8 +336,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-10</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Казань</Address>
@@ -372,8 +372,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-11</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Нижний Новгород</Address>
@@ -410,8 +410,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-12</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Нижний Новгород</Address>
@@ -446,8 +446,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-13</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Челябинск</Address>
@@ -484,8 +484,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-14</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Челябинск</Address>
@@ -520,8 +520,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-15</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Красноярск</Address>
@@ -558,8 +558,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-16</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Красноярск</Address>
@@ -594,8 +594,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-17</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Самара</Address>
@@ -632,8 +632,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-18</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Самара</Address>
@@ -668,8 +668,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-19</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Уфа</Address>
@@ -706,8 +706,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-20</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Уфа</Address>
@@ -742,8 +742,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-21</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Ростов-на-Дону</Address>
@@ -780,8 +780,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-22</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Ростов-на-Дону</Address>
@@ -816,8 +816,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-23</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Краснодар</Address>
@@ -854,8 +854,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-24</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Краснодар</Address>
@@ -890,8 +890,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-25</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Омск</Address>
@@ -928,8 +928,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-26</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Омск</Address>
@@ -964,8 +964,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-27</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Воронеж</Address>
@@ -1002,8 +1002,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-28</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Воронеж</Address>
@@ -1038,8 +1038,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-29</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Пермь</Address>
@@ -1076,8 +1076,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-30</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Пермь</Address>
@@ -1112,8 +1112,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-31</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Волгоград</Address>
@@ -1150,8 +1150,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-32</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Волгоград</Address>
@@ -1186,8 +1186,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-33</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Саратов</Address>
@@ -1224,8 +1224,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-34</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Саратов</Address>
@@ -1260,8 +1260,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-35</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Тюмень</Address>
@@ -1298,8 +1298,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-36</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Тюмень</Address>
@@ -1334,8 +1334,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-37</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Тольятти</Address>
@@ -1372,8 +1372,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-38</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Тольятти</Address>
@@ -1408,8 +1408,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-39</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Ижевск</Address>
@@ -1446,8 +1446,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-40</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Ижевск</Address>
@@ -1482,8 +1482,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-41</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Барнаул</Address>
@@ -1520,8 +1520,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-42</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Барнаул</Address>
@@ -1556,8 +1556,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-43</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Ульяновск</Address>
@@ -1594,8 +1594,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-44</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Ульяновск</Address>
@@ -1630,8 +1630,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-45</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Иркутск</Address>
@@ -1668,8 +1668,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-46</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Иркутск</Address>
@@ -1704,8 +1704,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-47</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Хабаровск</Address>
@@ -1742,8 +1742,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-48</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Хабаровск</Address>
@@ -1778,8 +1778,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-49</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Ярославль</Address>
@@ -1816,8 +1816,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-50</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Ярославль</Address>
@@ -1852,8 +1852,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-51</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Владивосток</Address>
@@ -1890,8 +1890,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-52</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Владивосток</Address>
@@ -1926,8 +1926,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-53</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Махачкала</Address>
@@ -1964,8 +1964,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-54</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Махачкала</Address>
@@ -2000,8 +2000,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-55</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Томск</Address>
@@ -2038,8 +2038,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-56</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Томск</Address>
@@ -2074,8 +2074,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-57</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Оренбург</Address>
@@ -2112,8 +2112,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-58</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Оренбург</Address>
@@ -2148,8 +2148,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-59</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Кемерово</Address>
@@ -2186,8 +2186,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-60</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Кемерово</Address>
@@ -2222,8 +2222,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-61</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Новокузнецк</Address>
@@ -2260,8 +2260,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-62</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Новокузнецк</Address>
@@ -2296,8 +2296,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-63</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Рязань</Address>
@@ -2334,8 +2334,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-64</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Рязань</Address>
@@ -2370,8 +2370,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-65</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Астрахань</Address>
@@ -2408,8 +2408,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-66</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Астрахань</Address>
@@ -2444,8 +2444,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-67</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Пенза</Address>
@@ -2482,8 +2482,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-68</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Пенза</Address>
@@ -2518,8 +2518,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-69</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Липецк</Address>
@@ -2556,8 +2556,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-70</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Липецк</Address>
@@ -2592,8 +2592,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-71</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Киров</Address>
@@ -2630,8 +2630,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-72</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Киров</Address>
@@ -2666,8 +2666,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-73</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Чебоксары</Address>
@@ -2704,8 +2704,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-74</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Чебоксары</Address>
@@ -2740,8 +2740,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-75</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Тула</Address>
@@ -2778,8 +2778,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-76</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Тула</Address>
@@ -2814,8 +2814,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-77</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Калининград</Address>
@@ -2852,8 +2852,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-78</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Калининград</Address>
@@ -2888,8 +2888,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-79</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Курск</Address>
@@ -2926,8 +2926,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-80</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Курск</Address>
@@ -2962,8 +2962,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-81</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Ставрополь</Address>
@@ -3000,8 +3000,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-82</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Ставрополь</Address>
@@ -3036,8 +3036,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-83</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Улан-Удэ</Address>
@@ -3074,8 +3074,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-84</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Улан-Удэ</Address>
@@ -3110,8 +3110,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-85</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Сочи</Address>
@@ -3148,8 +3148,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-86</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Сочи</Address>
@@ -3184,8 +3184,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-87</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Тверь</Address>
@@ -3222,8 +3222,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-88</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Тверь</Address>
@@ -3258,8 +3258,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-89</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Магнитогорск</Address>
@@ -3296,8 +3296,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-90</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Магнитогорск</Address>
@@ -3332,8 +3332,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-91</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Иваново</Address>
@@ -3370,8 +3370,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-92</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Иваново</Address>
@@ -3406,8 +3406,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-93</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Брянск</Address>
@@ -3444,8 +3444,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-94</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Брянск</Address>
@@ -3480,8 +3480,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-95</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Белгород</Address>
@@ -3518,8 +3518,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-96</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Белгород</Address>
@@ -3554,8 +3554,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-97</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Сургут</Address>
@@ -3592,8 +3592,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-98</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Сургут</Address>
@@ -3628,8 +3628,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-99</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Владимир</Address>
@@ -3666,8 +3666,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-100</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Владимир</Address>
@@ -3702,8 +3702,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-101</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Нижний Тагил</Address>
@@ -3740,8 +3740,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-102</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Нижний Тагил</Address>
@@ -3776,8 +3776,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-103</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Архангельск</Address>
@@ -3814,8 +3814,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-104</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Архангельск</Address>
@@ -3850,8 +3850,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-105</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Чита</Address>
@@ -3888,8 +3888,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-106</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Чита</Address>
@@ -3924,8 +3924,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-107</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Калуга</Address>
@@ -3962,8 +3962,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-108</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Калуга</Address>
@@ -3998,8 +3998,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-109</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Смоленск</Address>
@@ -4036,8 +4036,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-110</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Смоленск</Address>
@@ -4072,8 +4072,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-111</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Волжский</Address>
@@ -4110,8 +4110,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-112</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Волжский</Address>
@@ -4146,8 +4146,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-113</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Череповец</Address>
@@ -4184,8 +4184,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-114</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Череповец</Address>
@@ -4220,8 +4220,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-115</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Курган</Address>
@@ -4258,8 +4258,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-116</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Курган</Address>
@@ -4294,8 +4294,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-117</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Орёл</Address>
@@ -4332,8 +4332,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-118</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Орёл</Address>
@@ -4368,8 +4368,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-119</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Вологда</Address>
@@ -4406,8 +4406,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-120</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Вологда</Address>
@@ -4442,8 +4442,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-121</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Саранск</Address>
@@ -4480,8 +4480,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-122</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Саранск</Address>
@@ -4516,8 +4516,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-123</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Якутск</Address>
@@ -4554,8 +4554,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-124</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Якутск</Address>
@@ -4590,8 +4590,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-125</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Владикавказ</Address>
@@ -4628,8 +4628,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-126</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Владикавказ</Address>
@@ -4664,8 +4664,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-127</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Мурманск</Address>
@@ -4702,8 +4702,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-128</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Мурманск</Address>
@@ -4738,8 +4738,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-129</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Тамбов</Address>
@@ -4776,8 +4776,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-130</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Тамбов</Address>
@@ -4812,8 +4812,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-131</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Стерлитамак</Address>
@@ -4850,8 +4850,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-132</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Стерлитамак</Address>
@@ -4886,8 +4886,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-133</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Грозный</Address>
@@ -4924,8 +4924,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-134</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Грозный</Address>
@@ -4960,8 +4960,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-135</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Кострома</Address>
@@ -4998,8 +4998,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-136</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Кострома</Address>
@@ -5034,8 +5034,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-137</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Петрозаводск</Address>
@@ -5072,8 +5072,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-138</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Петрозаводск</Address>
@@ -5108,8 +5108,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-139</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Нижневартовск</Address>
@@ -5146,8 +5146,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-140</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Нижневартовск</Address>
@@ -5182,8 +5182,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-141</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Йошкар-Ола</Address>
@@ -5220,8 +5220,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-142</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Йошкар-Ола</Address>
@@ -5256,8 +5256,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-143</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Новороссийск</Address>
@@ -5294,8 +5294,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-144</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Новороссийск</Address>
@@ -5330,8 +5330,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-145</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Комсомольск-на-Амуре</Address>
@@ -5368,8 +5368,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-146</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Комсомольск-на-Амуре</Address>
@@ -5404,8 +5404,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-147</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Таганрог</Address>
@@ -5442,8 +5442,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-148</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Таганрог</Address>
@@ -5478,8 +5478,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-149</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Сыктывкар</Address>
@@ -5516,8 +5516,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-150</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Сыктывкар</Address>
@@ -5552,8 +5552,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-151</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Нальчик</Address>
@@ -5590,8 +5590,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-152</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Нальчик</Address>
@@ -5626,8 +5626,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-153</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Шахты</Address>
@@ -5664,8 +5664,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-154</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Шахты</Address>
@@ -5700,8 +5700,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-155</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Дзержинск</Address>
@@ -5738,8 +5738,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-156</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Дзержинск</Address>
@@ -5774,8 +5774,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-157</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Орск</Address>
@@ -5812,8 +5812,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-158</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Орск</Address>
@@ -5848,8 +5848,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-159</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Ангарск</Address>
@@ -5886,8 +5886,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-160</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Ангарск</Address>
@@ -5922,8 +5922,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-161</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Балаково</Address>
@@ -5960,8 +5960,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-162</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Балаково</Address>
@@ -5996,8 +5996,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-163</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Химки</Address>
@@ -6034,8 +6034,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-164</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Химки</Address>
@@ -6070,8 +6070,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-165</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Псков</Address>
@@ -6108,8 +6108,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-166</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Псков</Address>
@@ -6144,8 +6144,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-167</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Бийск</Address>
@@ -6182,8 +6182,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-168</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Бийск</Address>
@@ -6218,8 +6218,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-169</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Прокопьевск</Address>
@@ -6256,8 +6256,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-170</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Прокопьевск</Address>
@@ -6292,8 +6292,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-171</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Армавир</Address>
@@ -6330,8 +6330,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-172</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Армавир</Address>
@@ -6366,8 +6366,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-173</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Балашиха</Address>
@@ -6404,8 +6404,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-174</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Балашиха</Address>
@@ -6440,8 +6440,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-175</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Подольск</Address>
@@ -6478,8 +6478,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-176</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Подольск</Address>
@@ -6514,8 +6514,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-177</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Королёв</Address>
@@ -6552,8 +6552,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-178</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Королёв</Address>
@@ -6588,8 +6588,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-179</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Мытищи</Address>
@@ -6626,8 +6626,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-180</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Мытищи</Address>
@@ -6662,8 +6662,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-181</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Люберцы</Address>
@@ -6700,8 +6700,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-182</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Люберцы</Address>
@@ -6736,8 +6736,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-183</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Одинцово</Address>
@@ -6774,8 +6774,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-184</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Одинцово</Address>
@@ -6810,8 +6810,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-185</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Домодедово</Address>
@@ -6848,8 +6848,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-186</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Домодедово</Address>
@@ -6884,8 +6884,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-187</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Красногорск</Address>
@@ -6922,8 +6922,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-188</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Красногорск</Address>
@@ -6958,8 +6958,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-189</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Электросталь</Address>
@@ -6996,8 +6996,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-190</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Электросталь</Address>
@@ -7032,8 +7032,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-191</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Реутов</Address>
@@ -7070,8 +7070,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-192</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Реутов</Address>
@@ -7106,8 +7106,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-193</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Долгопрудный</Address>
@@ -7144,8 +7144,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-194</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Долгопрудный</Address>
@@ -7180,8 +7180,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-195</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Жуковский</Address>
@@ -7218,8 +7218,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-196</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Жуковский</Address>
@@ -7254,8 +7254,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-197</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Пушкино</Address>
@@ -7292,8 +7292,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-198</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Пушкино</Address>
@@ -7328,8 +7328,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-199</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Раменское</Address>
@@ -7366,8 +7366,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-200</Id>
-    <DateBegin>2026-08-13T12:46:19+03:00</DateBegin>
-    <DateEnd>2026-09-12T12:46:19+03:00</DateEnd>
+    <DateBegin>2026-08-13T11:03:50+00:00</DateBegin>
+    <DateEnd>2026-09-12T11:03:50+00:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <Address>Россия, Раменское</Address>
