@@ -2,8 +2,8 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>jk-site-1</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -32,14 +32,22 @@
     <Price>25000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ad1_site.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/04.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/05.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/06.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/07.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/08.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/09.jpg"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
     <Id>jk-site-2</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -68,14 +76,22 @@
     <Price>25000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ad1_site.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/04.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/05.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/06.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/07.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/08.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/09.jpg"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
     <Id>jk-site-3</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -104,14 +120,22 @@
     <Price>25000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ad1_site.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/04.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/05.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/06.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/07.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/08.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/09.jpg"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
     <Id>jk-site-4</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -140,14 +164,22 @@
     <Price>25000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ad1_site.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/04.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/05.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/06.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/07.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/08.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/09.jpg"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
     <Id>jk-site-5</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -176,14 +208,66 @@
     <Price>25000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ad1_site.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/04.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/05.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/06.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/07.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/08.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/09.jpg"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-crm-6</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-site-6</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
+    <Category>Услуги</Category>
+    <AdType>Предложение услуг</AdType>
+    <ServiceType>Деловые услуги</ServiceType>
+    <Address>Россия, Ростов-на-Дону</Address>
+    <Title>Сайт под ключ за 1 день</Title>
+    <Description><![CDATA[Сайт, который приводит клиентов и выглядит на уровне агентств с чеком в разы выше. Готовность сайта за 1 день.
+
+Работаю в любой нише: недвижимость, услуги, красота, стройка, здоровье, обучение, магазины и т.д.
+
+Для сравнения: такой же уровень исполнения — индивидуальная структура, квиз, калькулятор доходности — в агентстве стоит от 150 000 до 300 000 руб. У меня тот же результат, портфолио премиальных лендингов покажу в переписке.
+
+Тарифы:
+Эконом — от 25 000 руб (готовность 1 день): лендинг, 5-7 блоков, адаптив, форма заявки
+Стандарт — от 45 000 руб (готовность 1 день): индивидуальная структура, готовые продающие тексты, квиз/калькулятор доходности/визуализация
+Премиум — от 70 000 руб (готовность 3 дня): 3D-дизайн сайта, индивидуальная структура, готовые продающие тексты, квиз/калькулятор доходности/визуализация
+
+Включено в любой пакет:
+- анализ ниши и конкурентов
+- адаптация под телефон, форма заявки, кнопка мессенджера, Яндекс.Метрика
+- подключение домена
+- 2 круга правок
+
+Работаю по договору, предоплата 50%. Технические ошибки исправляю бесплатно 7 дней.
+
+Напишите слово САЙТ — рассчитаю точную стоимость под вашу задачу и отвечу в течение дня.]]></Description>
+    <Price>25000</Price>
+    <ContactPhone>+7 914 618-25-85</ContactPhone>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/04.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/05.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/06.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/07.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/08.jpg"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/site/09.jpg"/>
+    </Images>
+    <ManagerName>Юлия Кравченко</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>jk-crm-7</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -213,14 +297,22 @@
     <Price>70000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ad2_crm.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-crm-7</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-crm-8</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -250,14 +342,22 @@
     <Price>70000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ad2_crm.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-crm-8</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-crm-9</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -287,14 +387,22 @@
     <Price>70000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ad2_crm.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-crm-9</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-crm-10</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -324,14 +432,22 @@
     <Price>70000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ad2_crm.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-crm-10</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-crm-11</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -361,14 +477,67 @@
     <Price>70000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ad2_crm.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_seller-11</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-crm-12</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
+    <Category>Услуги</Category>
+    <AdType>Предложение услуг</AdType>
+    <ServiceType>Деловые услуги</ServiceType>
+    <Address>Россия, Ростов-на-Дону</Address>
+    <Title>CRM под ключ за 1 день</Title>
+    <Description><![CDATA[Настроим CRM под ключ для вашего бизнеса — от 70 000 до 150 000 руб.
+
+Не пустая CRM, а рабочая система продаж под ваш процесс. Куда сейчас уходят заявки — Avito, сайт, Telegram, звонки? Соберём всё в одну систему.
+
+Что настраиваем:
+- воронку продаж и этапы сделки
+- карточки клиентов, автоматические задачи
+- распределение заявок между менеджерами
+- интеграции: мессенджеры, телефония
+- шаблоны сообщений и уведомления
+- скрипты продаж
+- аналитику и повторные касания
+- подключение сайта и Avito
+
+Дополнительно можем подключить AI-продавца, который берёт на себя первичную обработку.
+
+Подходит агентствам недвижимости, клиникам, салонам, строительным компаниям, экспертам, онлайн-школам.
+
+Базовое внедрение — от 1 рабочего дня после получения доступов и согласования задачи. Работаем по договору.
+
+Напишите слово CRM — разберём, как сейчас обрабатываются ваши заявки, и предложим архитектуру системы.]]></Description>
+    <Price>70000</Price>
+    <ContactPhone>+7 914 618-25-85</ContactPhone>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/crm/09.png"/>
+    </Images>
+    <ManagerName>Юлия Кравченко</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>jk-ai_seller-13</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -396,14 +565,22 @@
     <Price>100000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_prodavec.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_seller-12</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_seller-14</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -431,14 +608,22 @@
     <Price>100000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_prodavec.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_seller-13</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_seller-15</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -466,14 +651,22 @@
     <Price>100000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_prodavec.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_seller-14</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_seller-16</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -501,14 +694,22 @@
     <Price>100000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_prodavec.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_seller-15</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_seller-17</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -536,14 +737,22 @@
     <Price>100000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_prodavec.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_seller/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_dept-16</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_dept-18</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -569,14 +778,22 @@
     <Price>150000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_otdel.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_dept-17</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_dept-19</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -602,14 +819,22 @@
     <Price>150000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_otdel.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_dept-18</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_dept-20</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -635,14 +860,22 @@
     <Price>150000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_otdel.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_dept-19</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_dept-21</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -668,14 +901,22 @@
     <Price>150000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_otdel.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_dept-20</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_dept-22</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -701,14 +942,63 @@
     <Price>150000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_otdel.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_content-21</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_dept-23</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
+    <Category>Услуги</Category>
+    <AdType>Предложение услуг</AdType>
+    <ServiceType>Деловые услуги</ServiceType>
+    <Address>Россия, Ростов-на-Дону</Address>
+    <Title>AI-отдел продаж под ключ за 7 дней</Title>
+    <Description><![CDATA[AI-отдел продаж под ключ — от 150 000 до 300 000 руб.
+
+Все заявки из Avito, сайта, рекламы и мессенджеров попадают в одну CRM. AI сам отвечает, квалифицирует, презентует продукт и записывает клиента на созвон. Менеджер получает уже готовую структурированную заявку.
+
+Что входит:
+- CRM под ваш процесс продаж
+- AI-сценарии под вашу нишу
+- автоматизация первого ответа, квалификации, передачи лида
+- повторные касания и напоминания
+- интеграции и уведомления
+- аналитика по каждому этапу
+
+Система строится не как чат-бот общего назначения, а под конкретный процесс продаж вашего бизнеса.
+
+Внедрение — от 7 дней после получения доступов и согласования задачи.
+
+Напишите слово ОТДЕЛ — покажем, что можно автоматизировать в вашей системе продаж.]]></Description>
+    <Price>150000</Price>
+    <ContactPhone>+7 914 618-25-85</ContactPhone>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_dept/09.png"/>
+    </Images>
+    <ManagerName>Юлия Кравченко</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>jk-ai_content-24</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -735,14 +1025,22 @@
     <Price>70000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_content.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_content-22</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_content-25</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -769,14 +1067,22 @@
     <Price>70000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_content.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_content-23</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_content-26</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -803,14 +1109,22 @@
     <Price>70000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_content.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_content-24</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_content-27</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -837,18 +1151,26 @@
     <Price>70000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_content.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
   <Ad>
-    <Id>jk-ai_content-25</Id>
-    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
-    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
+    <Id>jk-ai_content-28</Id>
+    <DateBegin>2026-08-14T18:10:26+03:00</DateBegin>
+    <DateEnd>2026-09-13T18:10:26+03:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
-    <Address>Россия, Уфа</Address>
+    <Address>Россия, Ростов-на-Дону</Address>
     <Title>AI-контент-завод за 3 дня</Title>
     <Description><![CDATA[AI-контент-завод — от 70 000 до 150 000 руб.
 
@@ -871,7 +1193,15 @@
     <Price>70000</Price>
     <ContactPhone>+7 914 618-25-85</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_content.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/01.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/02.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/03.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/04.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/05.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/06.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/07.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/08.png"/>
+      <Image url="https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/ai_content/09.png"/>
     </Images>
     <ManagerName>Юлия Кравченко</ManagerName>
   </Ad>
