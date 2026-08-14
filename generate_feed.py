@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Генератор XML-фида для автозагрузки Avito — 5 флагманских продуктов новой стратегии.
-25 объявлений = 5 продуктов x 5 городов у каждого (разные наборы городов).
-Урезано под лимит категории "Деловые услуги" — 28 свободных публикаций из 30.
-Ростов-на-Дону сознательно НЕ используется под "Сайт" — там уже live старое
-объявление с тем же названием, дублировать рискованно (антидубль-правило Avito).
+28 объявлений: Ростов-на-Дону добавлен в каждый продукт по явному запросу.
+Урезано под лимит категории "Деловые услуги" — 28 свободных публикаций из 30 (0 в запасе).
+Каждое объявление — с полной каруселью из 9 фото (не одна обложка).
 """
 
 import datetime
@@ -12,12 +11,14 @@ import datetime
 CONTACT_PHONE = "+7 914 618-25-85"
 MANAGER_NAME = "Юлия Кравченко"
 
+BASE_IMG = "https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images"
+
 IMG = {
-    "site": "https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ad1_site.png",
-    "crm": "https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ad2_crm.png",
-    "ai_seller": "https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_prodavec.png",
-    "ai_dept": "https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_otdel.png",
-    "ai_content": "https://raw.githubusercontent.com/kravchenkojulia-art/avito-autoload-feed/main/images/cover_ai_content.png",
+    "site": [f"{BASE_IMG}/site/{i:02d}.jpg" for i in range(1, 10)],
+    "crm": [f"{BASE_IMG}/crm/{i:02d}.png" for i in range(1, 10)],
+    "ai_seller": [f"{BASE_IMG}/ai_seller/{i:02d}.png" for i in range(1, 10)],
+    "ai_dept": [f"{BASE_IMG}/ai_dept/{i:02d}.png" for i in range(1, 10)],
+    "ai_content": [f"{BASE_IMG}/ai_content/{i:02d}.png" for i in range(1, 10)],
 }
 
 PRODUCTS = [
@@ -25,7 +26,7 @@ PRODUCTS = [
         "key": "site",
         "title": "Сайт под ключ за 1 день",
         "price": 25000,
-        "cities": ["Москва", "Санкт-Петербург", "Казань", "Екатеринбург", "Новосибирск"],
+        "cities": ["Москва", "Санкт-Петербург", "Казань", "Екатеринбург", "Новосибирск", "Ростов-на-Дону"],
         "body": """Сайт, который приводит клиентов и выглядит на уровне агентств с чеком в разы выше. Готовность сайта за 1 день.
 
 Работаю в любой нише: недвижимость, услуги, красота, стройка, здоровье, обучение, магазины и т.д.
@@ -51,7 +52,7 @@ PRODUCTS = [
         "key": "crm",
         "title": "CRM под ключ за 1 день",
         "price": 70000,
-        "cities": ["Москва", "Санкт-Петербург", "Краснодар", "Казань", "Самара"],
+        "cities": ["Москва", "Санкт-Петербург", "Краснодар", "Казань", "Самара", "Ростов-на-Дону"],
         "body": """Настроим CRM под ключ для вашего бизнеса — от 70 000 до 150 000 руб.
 
 Не пустая CRM, а рабочая система продаж под ваш процесс. Куда сейчас уходят заявки — Avito, сайт, Telegram, звонки? Соберём всё в одну систему.
@@ -103,7 +104,7 @@ PRODUCTS = [
         "key": "ai_dept",
         "title": "AI-отдел продаж под ключ за 7 дней",
         "price": 150000,
-        "cities": ["Москва", "Санкт-Петербург", "Краснодар", "Новосибирск", "Нижний Новгород"],
+        "cities": ["Москва", "Санкт-Петербург", "Краснодар", "Новосибирск", "Нижний Новгород", "Ростов-на-Дону"],
         "body": """AI-отдел продаж под ключ — от 150 000 до 300 000 руб.
 
 Все заявки из Avito, сайта, рекламы и мессенджеров попадают в одну CRM. AI сам отвечает, квалифицирует, презентует продукт и записывает клиента на созвон. Менеджер получает уже готовую структурированную заявку.
@@ -126,7 +127,7 @@ PRODUCTS = [
         "key": "ai_content",
         "title": "AI-контент-завод за 3 дня",
         "price": 70000,
-        "cities": ["Москва", "Санкт-Петербург", "Казань", "Самара", "Уфа"],
+        "cities": ["Москва", "Санкт-Петербург", "Казань", "Самара", "Ростов-на-Дону"],
         "body": """AI-контент-завод — от 70 000 до 150 000 руб.
 
 Идеи для контента больше не нужно придумывать с нуля. Система строится на базе знаний о вашем продукте, аудитории и стиле коммуникации.
@@ -163,6 +164,7 @@ date_end = date_end[:-2] + ":" + date_end[-2:]
 ads = []
 ad_num = 1
 for product in PRODUCTS:
+    images_xml = "\n".join(f'      <Image url="{esc(u)}"/>' for u in IMG[product["key"]])
     for city in product["cities"]:
         ads.append(f"""  <Ad>
     <Id>jk-{product['key']}-{ad_num}</Id>
@@ -177,7 +179,7 @@ for product in PRODUCTS:
     <Price>{product['price']}</Price>
     <ContactPhone>{CONTACT_PHONE}</ContactPhone>
     <Images>
-      <Image url="{esc(IMG[product['key']])}"/>
+{images_xml}
     </Images>
     <ManagerName>{esc(MANAGER_NAME)}</ManagerName>
   </Ad>""")
