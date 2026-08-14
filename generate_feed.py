@@ -170,8 +170,8 @@ for product in PRODUCTS:
     <Id>jk-{product['key']}-{ad_num}</Id>
     <DateBegin>{date_begin}</DateBegin>
     <DateEnd>{date_end}</DateEnd>
-    <Category>Услуги</Category>
-    <AdType>Предложение услуг</AdType>
+    <Category>Предложение услуг</Category>
+    <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
     <Address>Россия, {esc(city)}</Address>
     <Title>{esc(product['title'])}</Title>
