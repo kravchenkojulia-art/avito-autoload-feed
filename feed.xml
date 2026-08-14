@@ -2,8 +2,8 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>jk-site-1</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -38,8 +38,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-2</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -74,8 +74,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-3</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -110,8 +110,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-4</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -146,8 +146,8 @@
   </Ad>
   <Ad>
     <Id>jk-site-5</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -182,8 +182,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-6</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -219,8 +219,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-7</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -256,8 +256,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-8</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -293,8 +293,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-9</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -330,8 +330,8 @@
   </Ad>
   <Ad>
     <Id>jk-crm-10</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -367,8 +367,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_seller-11</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -402,8 +402,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_seller-12</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -437,8 +437,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_seller-13</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -472,8 +472,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_seller-14</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -507,8 +507,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_seller-15</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -542,8 +542,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_dept-16</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -575,8 +575,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_dept-17</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -608,8 +608,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_dept-18</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -641,8 +641,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_dept-19</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -674,8 +674,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_dept-20</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -707,8 +707,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_content-21</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -741,8 +741,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_content-22</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -775,8 +775,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_content-23</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -809,8 +809,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_content-24</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
@@ -843,8 +843,8 @@
   </Ad>
   <Ad>
     <Id>jk-ai_content-25</Id>
-    <DateBegin>2026-08-13T19:17:36+03:00</DateBegin>
-    <DateEnd>2026-09-12T19:17:36+03:00</DateEnd>
+    <DateBegin>2026-08-14T06:12:15+00:00</DateBegin>
+    <DateEnd>2026-09-13T06:12:15+00:00</DateEnd>
     <Category>Услуги</Category>
     <AdType>Предложение услуг</AdType>
     <ServiceType>Деловые услуги</ServiceType>
