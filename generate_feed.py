@@ -173,6 +173,13 @@ for product in PRODUCTS:
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, {esc(city)}</Address>
     <Title>{esc(product['title'])}</Title>
     <Description><![CDATA[{product['body']}]]></Description>
