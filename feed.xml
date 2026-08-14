@@ -2,11 +2,18 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>jk-site-1</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Москва</Address>
     <Title>Сайт под ключ за 1 день</Title>
     <Description><![CDATA[Сайт, который приводит клиентов и выглядит на уровне агентств с чеком в разы выше. Готовность сайта за 1 день.
@@ -46,11 +53,18 @@
   </Ad>
   <Ad>
     <Id>jk-site-2</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Санкт-Петербург</Address>
     <Title>Сайт под ключ за 1 день</Title>
     <Description><![CDATA[Сайт, который приводит клиентов и выглядит на уровне агентств с чеком в разы выше. Готовность сайта за 1 день.
@@ -90,11 +104,18 @@
   </Ad>
   <Ad>
     <Id>jk-site-3</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Казань</Address>
     <Title>Сайт под ключ за 1 день</Title>
     <Description><![CDATA[Сайт, который приводит клиентов и выглядит на уровне агентств с чеком в разы выше. Готовность сайта за 1 день.
@@ -134,11 +155,18 @@
   </Ad>
   <Ad>
     <Id>jk-site-4</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Екатеринбург</Address>
     <Title>Сайт под ключ за 1 день</Title>
     <Description><![CDATA[Сайт, который приводит клиентов и выглядит на уровне агентств с чеком в разы выше. Готовность сайта за 1 день.
@@ -178,11 +206,18 @@
   </Ad>
   <Ad>
     <Id>jk-site-5</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Новосибирск</Address>
     <Title>Сайт под ключ за 1 день</Title>
     <Description><![CDATA[Сайт, который приводит клиентов и выглядит на уровне агентств с чеком в разы выше. Готовность сайта за 1 день.
@@ -222,11 +257,18 @@
   </Ad>
   <Ad>
     <Id>jk-site-6</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Ростов-на-Дону</Address>
     <Title>Сайт под ключ за 1 день</Title>
     <Description><![CDATA[Сайт, который приводит клиентов и выглядит на уровне агентств с чеком в разы выше. Готовность сайта за 1 день.
@@ -266,11 +308,18 @@
   </Ad>
   <Ad>
     <Id>jk-crm-7</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Москва</Address>
     <Title>CRM под ключ за 1 день</Title>
     <Description><![CDATA[Настроим CRM под ключ для вашего бизнеса — от 70 000 до 150 000 руб.
@@ -311,11 +360,18 @@
   </Ad>
   <Ad>
     <Id>jk-crm-8</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Санкт-Петербург</Address>
     <Title>CRM под ключ за 1 день</Title>
     <Description><![CDATA[Настроим CRM под ключ для вашего бизнеса — от 70 000 до 150 000 руб.
@@ -356,11 +412,18 @@
   </Ad>
   <Ad>
     <Id>jk-crm-9</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Краснодар</Address>
     <Title>CRM под ключ за 1 день</Title>
     <Description><![CDATA[Настроим CRM под ключ для вашего бизнеса — от 70 000 до 150 000 руб.
@@ -401,11 +464,18 @@
   </Ad>
   <Ad>
     <Id>jk-crm-10</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Казань</Address>
     <Title>CRM под ключ за 1 день</Title>
     <Description><![CDATA[Настроим CRM под ключ для вашего бизнеса — от 70 000 до 150 000 руб.
@@ -446,11 +516,18 @@
   </Ad>
   <Ad>
     <Id>jk-crm-11</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Самара</Address>
     <Title>CRM под ключ за 1 день</Title>
     <Description><![CDATA[Настроим CRM под ключ для вашего бизнеса — от 70 000 до 150 000 руб.
@@ -491,11 +568,18 @@
   </Ad>
   <Ad>
     <Id>jk-crm-12</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Ростов-на-Дону</Address>
     <Title>CRM под ключ за 1 день</Title>
     <Description><![CDATA[Настроим CRM под ключ для вашего бизнеса — от 70 000 до 150 000 руб.
@@ -536,11 +620,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_seller-13</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Москва</Address>
     <Title>AI-продавец за 7 дней</Title>
     <Description><![CDATA[AI-продавец, который работает с заявками 24/7 — от 100 000 до 200 000 руб.
@@ -579,11 +670,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_seller-14</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Санкт-Петербург</Address>
     <Title>AI-продавец за 7 дней</Title>
     <Description><![CDATA[AI-продавец, который работает с заявками 24/7 — от 100 000 до 200 000 руб.
@@ -622,11 +720,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_seller-15</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Ростов-на-Дону</Address>
     <Title>AI-продавец за 7 дней</Title>
     <Description><![CDATA[AI-продавец, который работает с заявками 24/7 — от 100 000 до 200 000 руб.
@@ -665,11 +770,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_seller-16</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Екатеринбург</Address>
     <Title>AI-продавец за 7 дней</Title>
     <Description><![CDATA[AI-продавец, который работает с заявками 24/7 — от 100 000 до 200 000 руб.
@@ -708,11 +820,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_seller-17</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Уфа</Address>
     <Title>AI-продавец за 7 дней</Title>
     <Description><![CDATA[AI-продавец, который работает с заявками 24/7 — от 100 000 до 200 000 руб.
@@ -751,11 +870,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_dept-18</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Москва</Address>
     <Title>AI-отдел продаж под ключ за 7 дней</Title>
     <Description><![CDATA[AI-отдел продаж под ключ — от 150 000 до 300 000 руб.
@@ -792,11 +918,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_dept-19</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Санкт-Петербург</Address>
     <Title>AI-отдел продаж под ключ за 7 дней</Title>
     <Description><![CDATA[AI-отдел продаж под ключ — от 150 000 до 300 000 руб.
@@ -833,11 +966,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_dept-20</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Краснодар</Address>
     <Title>AI-отдел продаж под ключ за 7 дней</Title>
     <Description><![CDATA[AI-отдел продаж под ключ — от 150 000 до 300 000 руб.
@@ -874,11 +1014,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_dept-21</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Новосибирск</Address>
     <Title>AI-отдел продаж под ключ за 7 дней</Title>
     <Description><![CDATA[AI-отдел продаж под ключ — от 150 000 до 300 000 руб.
@@ -915,11 +1062,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_dept-22</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Нижний Новгород</Address>
     <Title>AI-отдел продаж под ключ за 7 дней</Title>
     <Description><![CDATA[AI-отдел продаж под ключ — от 150 000 до 300 000 руб.
@@ -956,11 +1110,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_dept-23</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Ростов-на-Дону</Address>
     <Title>AI-отдел продаж под ключ за 7 дней</Title>
     <Description><![CDATA[AI-отдел продаж под ключ — от 150 000 до 300 000 руб.
@@ -997,11 +1158,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_content-24</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Москва</Address>
     <Title>AI-контент-завод за 3 дня</Title>
     <Description><![CDATA[AI-контент-завод — от 70 000 до 150 000 руб.
@@ -1039,11 +1207,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_content-25</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Санкт-Петербург</Address>
     <Title>AI-контент-завод за 3 дня</Title>
     <Description><![CDATA[AI-контент-завод — от 70 000 до 150 000 руб.
@@ -1081,11 +1256,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_content-26</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Казань</Address>
     <Title>AI-контент-завод за 3 дня</Title>
     <Description><![CDATA[AI-контент-завод — от 70 000 до 150 000 руб.
@@ -1123,11 +1305,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_content-27</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Самара</Address>
     <Title>AI-контент-завод за 3 дня</Title>
     <Description><![CDATA[AI-контент-завод — от 70 000 до 150 000 руб.
@@ -1165,11 +1354,18 @@
   </Ad>
   <Ad>
     <Id>jk-ai_content-28</Id>
-    <DateBegin>2026-08-14T19:05:29+03:00</DateBegin>
-    <DateEnd>2026-09-13T19:05:29+03:00</DateEnd>
+    <DateBegin>2026-08-14T20:13:23+03:00</DateBegin>
+    <DateEnd>2026-09-13T20:13:23+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <AdType>Услуги</AdType>
     <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
     <Address>Россия, Ростов-на-Дону</Address>
     <Title>AI-контент-завод за 3 дня</Title>
     <Description><![CDATA[AI-контент-завод — от 70 000 до 150 000 руб.
